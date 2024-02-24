@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment2-chemical</string>
+    <string name="chemical_name">Chemical name</string>
+    <string name="add_new_chemical">Add new chemical</string>
+    <string name="guess_checmical">Guess checmical</string>
+    <string name="chemical_image">Chemical Image</string>
+</resources>
